@@ -14,5 +14,5 @@ I learn in CSS how to:
 I learn in JS:
 - methods, attributes and functions
 - set the rotation of the elements
-- how to connet a HTML file to JS
+- how to connect a HTML file to JS
 - Better understanding of CONST

@@ -1,5 +1,5 @@
-# 1st Project Clock
-Using HTML, CSS and JavaScript to create an analogue clock.
+# 1st Project: An analogue Clock
+Using HTML, CSS and JavaScript.
 
 I learn in HTML:
 - Elements, tags, divs and class
